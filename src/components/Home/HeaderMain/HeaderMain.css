@@ -1,0 +1,10 @@
+
+main{
+    height: 90vh;
+    background-image: url(https://wallpapermemory.com/uploads/430/traveling-wallpaper-hd-1920x1080-488801.jpg);
+}
+.carousel-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,9 @@
+.notFound {
+  height: 100vh;
+  background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-404.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

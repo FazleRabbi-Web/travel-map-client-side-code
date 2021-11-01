@@ -1,0 +1,16 @@
+.package{
+    background-color: rgb(226, 241, 241);
+    border-radius:10px ;
+}
+.packageImg{
+    width: 100%;
+    min-height: 280px;
+}
+.old-price{
+    color: #ffc107;
+    margin-left: 5px;
+    text-decoration: line-through;
+}
+.icon-color{
+    color: #ffc107;
+}
